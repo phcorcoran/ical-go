@@ -1,10 +1,10 @@
 # ical-go
 
-iCal package for Go (Golang)
+iCal package for Go (Golang), forked from github.com/laurent22/ical-go
 
 ## Installation
 
-    go get github.com/laurent22/ical-go
+    go get github.com/phcorcoran/ical-go
 
 ## Status
 
