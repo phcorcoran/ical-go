@@ -1,3 +1,3 @@
-module github.com/phcorcoran/ical-go
+module github.com/phcorcoran/ical
 
 go 1.16
